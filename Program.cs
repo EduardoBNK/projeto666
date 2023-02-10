@@ -10,10 +10,7 @@ namespace novoprojeto
     {
         static void Main(string[] args)
         {
-            string nome = "Japa";
-            Console.WriteLine("Olá mundo");
-
-            Console.WriteLine("Eae blz");
+           
 
         }
     }
